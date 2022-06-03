@@ -2,4 +2,6 @@ homepage: "https://vaven.co/"
 documentation: "https://vaven.co/"
 versions:
   - sha: 56be4dca7ada15a6fcc9df4fc89db9305b197aa1
+    changeNotes: Updated metadata
+  - sha: ad8629bb3b968f09046588e71f429ce9d3fa389a
     changeNotes: Initial Version
