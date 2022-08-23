@@ -1,5 +1,7 @@
 homepage: "https://vaven.co/"
 documentation: "https://vaven.co/"
 versions:
+  - sha: e37c3b8879fdc499de1511e13e95f7912593634d
+    changeNotes: Changed template name
   - sha: 56be4dca7ada15a6fcc9df4fc89db9305b197aa1
     changeNotes: Updated metadata
