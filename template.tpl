@@ -55,7 +55,7 @@ const injectScript = require('injectScript');
 const encodeUriComponent = require('encodeUriComponent');
 
 const pageId = data.pageId;
-const url = 'https://my.vaven.co/loader.js?id=' + encodeUriComponent(pageId);
+const url = 'https://widget.vaven.co/loader.js?id=' + encodeUriComponent(pageId);
 
 injectScript(url, data.gtmOnSuccess, data.gtmOnFailure);
 
@@ -77,7 +77,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://my.vaven.co/loader.js?*"
+                "string": "https://widget.vaven.co/loader.js?*"
               }
             ]
           }
